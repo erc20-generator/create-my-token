@@ -1,4 +1,4 @@
-## How to create a Token?
+## How to create a BEP20 Token?
 
 
 We will tell you how to create your own token in minutes without any code knowledge
